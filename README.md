@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/Paulo-Afonseca">
-    <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Paulo-Afonseca&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-     <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Afonseca&layout=compact&langs_count=16&theme=highcontrast"/>
+   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Afonseca&layout=compact&langs_count=16&theme=holi"/>
+   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Paulo-Afonseca&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -29,18 +29,21 @@
 
 #### Estudando neste momento:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Banco de dados:
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 #### Ferramentas de estudo e trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
 
 ### Contatos:
 
