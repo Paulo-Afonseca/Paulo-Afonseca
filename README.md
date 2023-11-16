@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/Paulo-Afonseca">
-   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Afonseca&layout=compact&langs_count=16&theme=holi"/>
-   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Paulo-Afonseca&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Afonseca&layout=compact&langs_count=16&theme=algolia"/>
+   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Paulo-Afonseca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 
 
